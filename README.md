@@ -8,6 +8,15 @@ Plomaap es un aplicativo web que facilita encontrar plomeros certificados de man
 - Pagos en línea seguros.
 - Ampliación de servicios para arreglos del hogar.
 
+  ## Instalación
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/plomaap.git
+cd plomaap
+
+```
 ### INGRESAR AL LINK ###
 https://www.figma.com/design/hrN7sxRYlUMswwUrKnoGEv/Sin-t%C3%ADtulo?node-id=0-1&t=aSd9a8sQ17PAtyFB-1
 
