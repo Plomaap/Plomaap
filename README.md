@@ -1,5 +1,5 @@
 # Plomaap #
-  Aplicativo Web
+Plomaap es un aplicativo web que facilita encontrar plomeros certificados de manera rápida y confiable. Los usuarios pueden ver reseñas, agendar servicios y realizar pagos en línea. Además, la plataforma permite expandir los servicios según las necesidades del hogar, como arreglos de interiores y mantenimientos adicionales.
 
 ### INGRESAR AL LINK ###
 https://www.figma.com/design/hrN7sxRYlUMswwUrKnoGEv/Sin-t%C3%ADtulo?node-id=0-1&t=aSd9a8sQ17PAtyFB-1
