@@ -11,3 +11,6 @@ https://drive.google.com/file/d/1lxnEAm8vn-WjA-t9FuQXSLqkwQqYuOoJ/view?usp=shari
 
 ### Encuesta Recolectar Info ###
 https://docs.google.com/forms/d/e/1FAIpQLSe70cJ2kFocZ0YSidPuHzQ3WOqk39BU6iVmVI-IzU9qcWJwog/viewform
+
+# link produccion plantilla
+https://plomaapfuncional.vercel.app/
