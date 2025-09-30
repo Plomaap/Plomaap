@@ -25,6 +25,8 @@ https://www.canva.com/design/DAGz2bEzDvo/3p1SkUTTlX0Z_pA7DlCUsw/edit?utm_content
 
 ### Encuesta Recolectar Info ###
 https://docs.google.com/forms/d/e/1FAIpQLSe70cJ2kFocZ0YSidPuHzQ3WOqk39BU6iVmVI-IzU9qcWJwog/viewform
+### Diapositivas Recoleccion ###
+https://www.canva.com/design/DAG0Z0x5I1Q/nFtOX6zYNdcTMX8nSgQ7JA/edit?utm_content=DAG0Z0x5I1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # link produccion plantilla
 https://plomaapfuncional.vercel.app/
